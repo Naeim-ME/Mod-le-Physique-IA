@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Saved models (optional - uncomment if you don't want to track models)
+# hybrid_model/
+# modeles_maintenance_predictive/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files (optional)
+test_*.py
+
+# Reports generated
+*.xlsx
+rapport_maintenance.xlsx
